@@ -1,0 +1,2 @@
+# parafernalia-interativa
+Teste técnico
